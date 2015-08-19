@@ -1,6 +1,6 @@
 <h3>Install phantomjs</h3>
 
-brew update
+brew update<br>
 brew install phantomjs
 
 <h3>Run!</h3>
