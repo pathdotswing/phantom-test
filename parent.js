@@ -21,6 +21,6 @@ function spawnPhan() {
 		i++;
 		setTimeout(function(){
 			spawnPhan()
-		}, 1000)
+		}, 2000)
 	}
 }
