@@ -1,8 +1,8 @@
-Install phantomjs 
+<h3>Install phantomjs</h3>
 
 brew update
 brew install phantomjs
 
-Run!
+<h3>Run!</h3>
 
 node parent.js
